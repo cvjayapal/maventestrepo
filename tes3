@@ -1,1 +1,9 @@
-to show changes to Satya sir
+aws service = ec2
+instance type = t3.medium
+public ip  = disables
+subnet = 10.2.3.0/26
+security group = sg-****
+key = 123
+
+
+
